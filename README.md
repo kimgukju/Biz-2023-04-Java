@@ -16,7 +16,7 @@ git comfig --global user.email kimgukju@kimgukju.com
 git init
 ```
 3. Repository에 대한 설명을 하기 위하여 README.md 파일 생성하기
-4. 원격 Repository 별명 co설정하기 : `git remote add origin https://github.com/kimgukju/Biz-2023-04-java.git`
+4. 원격 Repository 별명 설정하기 : `git remote add origin https://github.com/kimgukju/Biz-2023-04-java.git`
 
 ### 기존의 repository에 계속해서 update 하고자 할때
 
