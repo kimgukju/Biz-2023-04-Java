@@ -1,0 +1,5 @@
+package hello_01;
+
+public class Hello00 {
+	System.out.println("Hello Korea")
+}

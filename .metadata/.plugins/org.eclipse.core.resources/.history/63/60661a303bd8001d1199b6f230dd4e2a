@@ -1,0 +1,11 @@
+package hello_01;
+
+//this is class block 
+public class Hello {
+	public static void main(String[] args) {
+		// 여기는 출력문
+		System.out.println("Hello Korea"); // 여기는 화면 출력	
+		System.out.println(30 + 40);
+		System.out.println("30" + "40");
+	}
+}
